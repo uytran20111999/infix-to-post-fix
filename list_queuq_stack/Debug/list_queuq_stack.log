@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\uytra\desktop\list\list_queuq_stack\list_queuq_stack\source.cpp(173): warning C4018: '<': signed/unsigned mismatch
+c:\users\uytra\desktop\list\list_queuq_stack\list_queuq_stack\source.cpp(221): warning C4018: '<': signed/unsigned mismatch
+c:\users\uytra\desktop\list\list_queuq_stack\list_queuq_stack\source.cpp(234): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  list_queuq_stack.vcxproj -> C:\Users\uytra\Desktop\List\list_queuq_stack\Debug\list_queuq_stack.exe
+  list_queuq_stack.vcxproj -> C:\Users\uytra\Desktop\List\list_queuq_stack\Debug\list_queuq_stack.pdb (Full PDB)
